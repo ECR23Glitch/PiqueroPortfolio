@@ -23,7 +23,7 @@
                 id="navcol-1">
                 <ul class="nav navbar-nav">
                     <li class="nav-item"><a class="nav-link active" href="#">Checador&nbsp;<i class="icon ion-android-time"></i></a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Marcador&nbsp;<i class="icon ion-ios-football"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="marcador.php">Marcador&nbsp;<i class="icon ion-ios-football"></i></a></li>
                 </ul>
             </div>
         </div>
